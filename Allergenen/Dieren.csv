@@ -1,0 +1,35 @@
+Rijk,Familie,Genus,Latijnse naam,Engelse populaire naam,Nederlandse populaire naam,Bron,TaxID
+Animalia,Blattellidae,Blattella,B. germanica,German cockroach,Duitse kakkerlak,,6973
+Animalia,Blattidae,Blatta,B. orientalis,Oriental cockroach,Oosterse kakkerlak,,6976
+Animalia,Blattidae,Periplaneta ,P. americana,American cockroach,Amerikaanse kakkerlak,,6978
+Animalia,Bovidae,Bos,B. domesticus,Cow,Koe,,25401
+Animalia,Bovidae,Ovis,O. sp.,Sheep,Schaap,,9935
+Animalia,Canidae,Canis,C. familiaris,Dog,Hond,,9615
+Animalia,Canidae,Urocyon ,U. cinereoargenteus,Gray fox,Grijze vos,,55040
+Animalia,Caviidae,Cavia,C. porcellus,Guinea pig,Cavia,,10141
+Animalia,Cervidae,Odocoileus ,O. virginianus,White-tailed deer,Witstaarthert,,9874
+Animalia,Chironomidae,,,Midges,Knutten,,7149
+Animalia,Coccinellidae,,,Ladybird beetle,Lieveheersbeestje,,7080
+Animalia,Columbidae,Columba ,C. livia,Pigeon,Duif,,8932
+Animalia,Didelphiidae,Didelphis ,D. marsupialis,Opossum,Buidelrat,,9268
+Animalia,Equidae,Equus,E. caballus,Horse,Paard,,9796
+Animalia,Felidae,Felis,F. domesticus,Cat,Kat,,25401
+Animalia,Fringillidae,Serinus ,S. canaria,Common canary,Kanarie,,9135
+Animalia,Leporidae,Oryctologus ,O. cuniculus,Rabbit,Konijn,,9986
+Animalia,Meleagrididae,Meleagris,M. gallopavo,Turkey,Kalkoen,,9103
+Animalia,Muridae,Cricetus,C. cricetus,Common hamster,Hamster,,10034
+Animalia,Muridae,Gerbillus,G. campestris,Gerbil,Woestijnrat,,41199
+Animalia,Muridae,Mus,M. musculus,Mouse,Muis,,10090
+Animalia,Muridae,Rattus,R. norvegicus,Rat,Rat,,10116
+Animalia,Mustelidae,Mustela,M. sp.,Minks and Ferrets,Nertsen en Fretten,,9665
+Animalia,Phasianidae,Gallus,G. domesticus,Chicken,Kip,,25401
+Animalia,Procyonidae,Procyon,P. lotor,Racoon,Wasbeer,,9654
+Animalia,Psittacidae,Melopsittacus,M. undulatus,Parakeet,Parkiet,,13146
+Animalia,Pyroglyphidae,Dermatophagoides,D. farinae,House dust mite,Huisstofmijt,,6954
+Animalia,Pyroglyphidae,Dermatophagoides,D. pteronyssinus,European house dust mite,Europeese huisstofmijt,,6956
+Animalia,Pyroglyphinae,Euroglyphus,E. maynei,Dust mite,Stofmijt,,6958
+Animalia,Sciuridae,Sciurus,S. niger,Eastern fox squirrel,Zwarte eekhoorn,,34861
+Animalia,Soricidae,Sorex,S. sp.,Shrews,Spitsmuis,,9379
+Animalia,Suidae,Sus,S. scrofa,Pig,Varken,,9823
+Animalia,Talpidae,Scalopus,S. aquaticus,Eastern mole,Oost-Amerikaanse mol,,71119
+Animalia,Tyroglyphidae,Blomia ,B. tropicalis,Tropical house dust mite,Tropische huisstofmijt,,40697
