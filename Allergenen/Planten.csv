@@ -1,0 +1,71 @@
+Rijk,Familie,Genus,Latijnse naam,Engelse populaire naam,Nederlandse pulaire naam,Bron,TaxID
+Plantae,Aceraceae,Acer,A. sp.,Maple,Esdoorn,,4022
+Plantae,Amaranthaceae,Amaranthus,A. sp.,Pigweed,Amarant,,3564
+Plantae,Amaranthaceae,Atriplex,A. sp.,Scale,Melde,,3550
+Plantae,Amaranthaceae,Chenopodium,C. sp.,Lamb’s quarter,Ganzenvoet,,3558
+Plantae,Amaranthaceae,Kochia,K. sp.,Burning bush,Studentenkruid,,267503
+Plantae,Amaranthaceae,Salsola,S. sp.,Russian thistle,Loogkruid,,151233
+Plantae,Asteraceae,Ambrosia,A. artemisiifolia,Common ragweed,Alsemambrosia,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115751450/,4212
+Plantae,Asteraceae,Ambrosia,A. sp.,Ragweed,Ambrosia,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/; https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/pollentelling/,26641
+Plantae,Asteraceae,Artemisia,A. vulgaris,Mugwort,Bijvoet,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115722450/,4220
+Plantae,Asteraceae,Artemisia,A. sp.,Sage,Alsem,,4219
+Plantae,Asteraceae,Baccharis,B. sp.,Groundsel-tree,Struikaster,,41487
+Plantae,Asteraceae,Iva,I. sp.,Marsh elder,NVT,,114188
+Plantae,Asteraceae,Xanthium,X. sp.,Cocklebur,Stekelnoot,,36590
+Plantae,Betulaceae,Alnus,A. glutinosa,Black alder,Zwarte els,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115644450/,3517
+Plantae,Betulaceae,Betula,B. pendula,Silver birch,Ruwe berk,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/,3505
+Plantae,Betulaceae,Betula,B. pubescens,Downy Birch,Zachte berk,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/,38787
+Plantae,Betulaceae,Corylus,C. avellana,Common hazel,Hazelaar,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115811450/,13451
+Plantae,Betulaceae,Corylus,C. sp.,Hazelnut,Hazelaar,,13450
+Plantae,Cupressaceae,Cupressus,C. sp.,Cypress,Cypres,,13468
+Plantae,Cupressaceae,Juniperus,J. sp.,Junipers and cedars,Jeneverbes en ceder,,13100
+Plantae,Cupressaceae,Taxodium,T. sp.,Bald-cypress,Moerascypres,,13282
+Plantae,Fabaceae,Acacia,A. sp.,Acacia,Acacia,,3808
+Plantae,Fabaceae,Prosopis,P. sp.,Mesquite,Mesquiteboom,,6330
+Plantae,Fagaceae,Fagus,F. sp.,Beech,Beuk,,21024
+Plantae,Fagaceae,Quercus,Q. sp.,Oak,Eik,,3511
+Plantae,Hamamelidaceae,Liquidambar,L. sp.,Sweet gum,Amberboom,,4398
+Plantae,Juglandaceae,Carya,C. sp.,Hickory and Pecan,Hickory en pecannoot,,13402
+Plantae,Juglandaceae,Juglans,J. sp.,Walnut,Walnoot,,16718
+Plantae,Moraceae,Morus,M. sp.,Mulberry,Moerbei,,577
+Plantae,Myricaceae,Myrica,M. sp.,Bayberry,Gagel,,3509
+Plantae,Oleaceae,Fraxinus,F. sp.,Ash,Es,,38871
+Plantae,Oleaceae,Ligustrum,L. sp.,Privet,Liguster,,13596
+Plantae,Oleaceae,Olea,O. sp.,Olive,Olijf,,22362
+Plantae,Pinaceae,Cedrus,C. sp.,Cedar,Ceder,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,26641
+Plantae,Plantaginaceae,Plantago,P. sp.,English plantain,Weegbree,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115947450/,
+Plantae,Platanaceae,Platanus,P. sp.,Sycamore,Plataan,,4402
+Plantae,Poaceae,Agrostis,A. gigantea,Redtop,Hoog struisgras,,345916
+Plantae,Poaceae,Alopecurus,A. pratensis,Meadow foxtail,Grote vossenstaart,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,15304
+Plantae,Poaceae,Alopecurus,A. sp.,Foxtail grass,Vossenstaart,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,15303
+Plantae,Poaceae,Anthoxanthum,A. odoratum,Sweet vernal,Gewoon reukgras,,29661
+Plantae,Poaceae,Arrhenatherum,A. elatius,False oat-grass,Gewone glanshaver,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,52139
+Plantae,Poaceae,Bromus,B. hordeaceus,Soft-brome,Zachte dravik,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,52147
+Plantae,Poaceae,Cynodon,C. dactylon,Bermuda grass,Handjesgras,,28909
+Plantae,Poaceae,Cynosurus,C. cristatus,Crested dogstail grass,Kamgras,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,211939
+Plantae,Poaceae,Dactylis,D. glomerata,Cock's-foot,Kropaar,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,4509
+Plantae,Poaceae,Elytrigia,E. repens,Couch grass,Kweek,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,52152
+Plantae,Poaceae,Festuca,F. pratensis,Meadow fescue,Beemdlangbloem,,4608
+Plantae,Poaceae,Fetusca,F. sp.,Fescue,Zwenkgras,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,4605
+Plantae,Poaceae,Holcus,H. lanatus,Yorkshire fog,Gestreepte witbol,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,29679
+Plantae,Poaceae,Holcus,H. mollis,Creeping soft grass,Gladde witbol,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,376124
+Plantae,Poaceae,Holcus,H. sp.,Soft grass,Witbol,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,15560
+Plantae,Poaceae,Lolium,L. multiflorum,Italian rye-grass,Italiaans raaigras,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,4521
+Plantae,Poaceae,Lolium,L. perenne,English ryegrass,Engels raaigras,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,4522
+Plantae,Poaceae,Lolium,L. sp.,Ryegrass,Raaigras,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,4520
+Plantae,Poaceae,Paspalum,P. notatum,Bahia grass,Bahia-gras,,147272
+Plantae,Poaceae,Phleum,P. pratense,Timothy grass,Timoteegras,,15957
+Plantae,Poaceae,Phleum,P. pratense subsp. pratense,Timothy-grass,Timoteegras,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,15957
+Plantae,Poaceae,Phleum,P. sp.,Timothy-grass,Doddegras,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,15304
+Plantae,Poaceae,Poa,P. annua,Annual meadow grass,Straatgras,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,93036
+Plantae,Poaceae,Poa,P. pratensis,Kentucky bluegrass,Veldbeemdgras,http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf,4545
+Plantae,Poaceae,Secale,S. cereale,Rye,Rogge,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,4550
+Plantae,Poaceae,Sorghum,S. halepense,Johnson grass,Wilde sorgo,,4560
+Plantae,Poaceae,Zea,Z. mays subsp. mays,Maize,Maïs,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,381124
+Plantae,Polygonaceae,Rumex,R. sp.,Dock,Veldzuring,https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115902450/,3618
+Plantae,Salicaceae,Populus,P. sp.,Cottonwood,Populier,,3689
+Plantae,Salicaceae,Salix,S. sp.,Willow,Wilg,,40685
+Plantae,Ulmaceae,Ulmus,U. sp.,Elm,Iep,,24735
+Plantae,Urticaceae,Parietaria,P. judaica,Spreading pellitory,Klein glaskruid,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,33127
+Plantae,Urticaceae,Parietaria,P. officinalis,Upright pellitory,Groot glaskruid,http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/,13187
+Plantae,Urticaceae,Urtica,U. sp.,Nettle,Brandnetel,,3500
