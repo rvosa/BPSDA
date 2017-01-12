@@ -1,0 +1,188 @@
+Rijk;Familie;Genus;Soort;Ondersoort;Latijnse naam;Engelse populaire naam;Nederlandse populaire naam;Bron;TaxID
+Animalia;Apidae;Apis;mellifera;;A. mellifera;Honey bee;Honingbij;;7460
+Animalia;Apidae;Bombus;sp.;;B. sp.;Bumble bee;Hommel;;4708
+Animalia;Blattellidae;Blattella;germanica;;B. germanica;German cockroach;Duitse kakkerlak;;6973
+Animalia;Blattidae;Blatta;orientalis;;B. orientalis;Oriental cockroach;Oosterse kakkerlak, bakkerstor;;6976
+Animalia;Blattidae;Periplaneta;americana;;P. americana;American cockroach;Amerikaanse kakkerlak, grote kakkerlak;;6978
+Animalia;Bovidae;Bos;domesticus;;B. domesticus;Cow;Koe;;25401
+Animalia;Bovidae;Ovis;sp.;;O. sp.;Sheep;Schaap;;9935
+Animalia;Canidae;Canis;familiaris;;C. familiaris;Dog;Hond;;9615
+Animalia;Canidae;Urocyon;cinereoargenteus;;U. cinereoargenteus;Gray fox;Grijze vos;;55040
+Animalia;Caviidae;Cavia;porcellus;;C. porcellus;Guinea pig;Cavia;;10141
+Animalia;Ceratopogonidae;Culicoides;sp.;;C. sp.;Biting midges, punkies;Knutten;;271
+Animalia;Cervidae;Odocoileus;virginianus;;O. virginianus;White-tailed deer;Witstaarthert;;9874
+Animalia;Chironomidae;;;;;Midges;Knutten;;7149
+Animalia;Cimicidae;Cimex;lectularius;;C. lectularius;Human bed bug;Bedwants;;79782
+Animalia;Coccinellidae;;;;;Ladybird beetle;Lieveheersbeestje;;7080
+Animalia;Columbidae;Columba;livia;;C. livia;Pigeon;Duif;;8932
+Animalia;Culicidae;Aedes;sp.;;A. sp.;Mosquito;Mug;;9531
+Animalia;Culicidae;Anopheles;sp.;;A. sp.;Mosquito;Mug;;484
+Animalia;Culicidae;Culex;sp.;;C. sp.;Mosquito;Mug;;527
+Animalia;Didelphiidae;Didelphis;marsupialis;;D. marsupialis;Opossum;Buidelrat;;9268
+Animalia;Equidae;Equus;caballus;;E. caballus;Horse;Paard;;9796
+Animalia;Felidae;Felis;catus;;F. domesticus;Cat;Kat;;25401
+Animalia;Formicidae;Pogonomyrmex;sp.;;P. sp.;Harvester ant;Maaimier;;144030
+Animalia;Formicidae;Solenopsis;richteri;;S. richteri;Black imported fire ant;Zwarte vuurmier;;30203
+Animalia;Formicidae;Solenopsis;invicta;;S. invicta;Red imported fire ant;Rode vuurmier;;13686
+Animalia;Fringillidae;Serinus;canaria;;S. canaria;Common canary;Kanarie;;9135
+Animalia;Homaridae;Homarus;americanus;;H. americanus;American lobster;Amerikaanse kreeft;;9986
+Animalia;Leporidae;Oryctolagus;cuniculus;;O. cuniculus;Rabbit;Konijn;;9986
+Animalia;Meleagrididae;Meleagris;gallopavo;;M. gallopavo;Turkey;Kalkoen;;9103
+Animalia;Muridae;Cricetus;cricetus;;C. cricetus;Common hamster;Hamster;;10034
+Animalia;Muridae;Gerbillus;campestris;;G. campestris;Gerbil;Woestijnrat;;41199
+Animalia;Muridae;Mus;musculus;;M. musculus;Mouse;Muis;;10090
+Animalia;Muridae;Rattus;norvegicus;;R. norvegicus;Rat;Rat;;10116
+Animalia;Mustelidae;Mustela;sp.;;M. sp.;Minks and Ferrets;Nertsen en Fretten;;9665
+Animalia;Panaeidae;Penaeus;sp.;;P. sp.;Shrimp;Garnaal;;133894
+Animalia;Phasianidae;Gallus;gallus;domesticus;G. domesticus;Chicken;Kip;;25401
+Animalia;Portunidae;Callinectes;sapidus;;C. sapidus;Crab;Krab;;6763
+Animalia;Procyonidae;Procyon;lotor;;P. lotor;Racoon;Wasbeer;;9654
+Animalia;Psittacidae;Melopsittacus;undulatus;;M. undulatus;Parakeet;Parkiet;;13146
+Animalia;Pyroglyphidae;Dermatophagoides;farinae;;D. farinae;House dust mite;Huisstofmijt;;6954
+Animalia;Pyroglyphidae;Dermatophagoides;pteronyssinus;;D. pteronyssinus;European house dust mite;Europeese huisstofmijt;;6956
+Animalia;Pyroglyphinae;Euroglyphus;maynei;;E. maynei;Dust mite;Stofmijt;;6958
+Animalia;Reduviidae;Triatoma;sp.;;T. sp.;Kissing bug;Bloedzuigende wants;;30075
+Animalia;Sciuridae;Sciurus;niger;;S. niger;Eastern fox squirrel;Zwarte eekhoorn, Amerikaanse voseekhoorn;;34861
+Animalia;Simuliidae;Simulium;sp.;;S. sp.;Black fly;Zwarte vlieg;;389
+Animalia;Soricidae;Sorex;sp.;;S. sp.;Shrews;Spitsmuis;;9379
+Animalia;Suidae;Sus;scrofa;;S. scrofa;Pig;Varken;;9823
+Animalia;Tabanidae;Chrysops;sp.;;C. sp.;Deer fly;Goudoogdaas;;27458
+Animalia;Tabanidae;Hybomitra;sp.;;H. sp.;Horse fly;Knobbeldaas;;124690
+Animalia;Tabanidae;Tabanus;sp.;;T. sp.;Horse fly;Runderdaas;;858
+Animalia;Talpidae;Scalopus;aquaticus;;S. aquaticus;Eastern mole;Oost-Amerikaanse mol;;71119
+Animalia;Tyroglyphidae;Blomia;tropicalis;;B. tropicalis;Tropical house dust mite;Tropische huisstofmijt;;40697
+Animalia;Vespidae;Dolichovespula;sp.;;D. sp.;“Hornet”;Langkopwesp;;7440
+Animalia;Vespidae;Polistes;sp.;;P. sp.;Paper wasp;Veldwespen;;7456
+Animalia;Vespidae;Vespa;crabro;;V. crabro;True hornet;Hoornaar, paardenwesp;;7445
+Animalia;Vespidae;Vespula;sp.;;V. sp.;Yellow jacket;Kortkopwespen;;7451
+Fungi;Agaricaceae;Calvatia;sp.;;C. sp.;;;;68761
+Fungi;Agaricaceae;Coprinus;sp.;;C. sp.;Inky cap;Inktzwam;;5345
+Fungi;Arthrodermataceae;Trichophyton;mentagrophytes;;T. mentagrophytes;;;;523103
+Fungi;Bionectriaceae;Nectriopsis;sp.;;N. sp.;;;;29865
+Fungi;Chaetomiaceae;Chaetomium;globosum;;C. globosum;;;;38033
+Fungi;Diademaceae;Diademaceae;sp.;;D. sp.;;;;221669
+Fungi;Didymellaceae;Phoma;betae;;P. betae;sugarbeet root aphid;Wortelbrand;;137527
+Fungi;Dothideales;Aureobasidium;pullulans;;A. pullulans;;;;5580
+Fungi;Ganodermataceae;Ganoderma;sp.;;G. sp.;"Shelf mushroom; bracket fungi";Lakzwam;;5314
+Fungi;Geastraceae;Geastrum;sp.;;G. sp.;Earth star;;;68764
+Fungi;Hymenogastraceae;Psilocybe;cubensis;;P. cubensis;;;;181762
+Fungi;Leptosphaeriaceae;Leptosphaeria;sp.;;L. sp.;;;;5021
+Fungi;Malasseziaceae;Malassezia;furfur;;M. furfur;;;;55194
+Fungi;Meruliaceae;Merulius;sp.;;M. sp.;;;;160933
+Fungi;Mucoraceae;Mucor;sp.;;M. sp.;;Kopjesschimmel;;4830
+Fungi;Mucoraceae;Rhizopus;stolonifer;;R. stolonifer;Black bread mold;;;4846
+Fungi;Mycosphaerellaceae;Cladosporium;herbarum;;C. herbarum;;;;29918
+Fungi;Mycosphaerellaceae;Cladosporium;sphaerospermum;;C. sphaerospermum;;;;92950
+Fungi;Nectriaceae;Calonectria;sp.;;C. sp.;;;;57138
+Fungi;Nectriaceae;Fusarium;moniliforme;;F. moniliforme;;;;5599
+Fungi;Nectriaceae;Gibberella;sp.;;G. sp.;;;;5506
+Fungi;Nectriaceae;Nectria;sp.;;N. sp.;;;;5133
+Fungi;Peronosporaceae;Plasmopara;sp.;;P. sp.;;;;4780
+Fungi;Pleosporaceae;Alternaria;alternata;;A. alternata;;;;45130
+Fungi;Pleosporaceae;Bipolaris;sorokiniana;;B. sorokiniana;;;;145392
+Fungi;Pleosporaceae;Curvularia;sp.;;C. sp.;;;;5502
+Fungi;Pleosporaceae;Drechslera;spicifera;;D. spicifera;;;;105696
+Fungi;Pleosporaceae;Epicoccum;nigrum;;E. nigrum;;;;110364
+Fungi;Pleosporaceae;Helminthosporium;sp.;;H. sp.;;;;58127
+Fungi;Pleosporaceae;Pseudocochliobolus;sp.;;P. sp.;;;;5502
+Fungi;Pleosporaceae;Pyrenophora;sp.;;P. sp.;;;;5027
+Fungi;Pleosporaceae;Stemphylium;solani;;S. solani;;;;5297
+Fungi;Pleosporaceae;Ulocladium;sp.;;U. sp.;;;;119947
+Fungi;Pleurotaceae;Pleurotus;ostreatus;;P. ostreatus;Oyster mushroom;Oesterzwam;;5322
+Fungi;Polyporaceae;Lentinus;sp.;;L. sp.;;;;5357
+Fungi;Pucciniaceae;Puccinia;graminis;;P. graminis;"stem rust; black rust; cereal rust";Zwarte roest;;5476
+Fungi;Pythiaceae;Phytophthora;sp.;;P. sp.;;;;4783
+Fungi;Saccharomycetaceae;Candida;albicans;;C. albicans;;;;4932
+Fungi;Saccharomycetaceae;Saccharomyces;cerevisiae;;S. cerevisiae;Budding yeast;Bakkersgist, wijngist, biergist,;;40559
+Fungi;Sclerotiniaceae;Botryotinia;sp.;;B. sp.;;;;40558
+Fungi;Sclerotiniaceae;Botrytis;cinerea;;B. cinerea;Grey mold;Grauwe schimmel;;5054
+Fungi;Trichocomaceae;Aspergillus;amstelodami;;A. amstelodami;;;;5059
+Fungi;Trichocomaceae;Aspergillus;flavus;;A. flavus;;;;746128
+Fungi;Trichocomaceae;Aspergillus;fumigatus;;A. fumigatus;;;;5061
+Fungi;Trichocomaceae;Aspergillus;niger;;A. niger;;;;34861
+Fungi;Trichocomaceae;Edyuillia;sp.;;E. sp.;;;;94203
+Fungi;Trichocomaceae;Emericella;sp.;;E. sp.;;;;5071
+Fungi;Trichocomaceae;Eupenicillium;sp.;;E. sp.;;;;5073
+Fungi;Trichocomaceae;Eurotium;sp.;;E. sp.;;;;28569
+Fungi;Trichocomaceae;Neosartorya;sp.;;N. sp.;;;;36629
+Fungi;Trichocomaceae;Penicillium;chrysogenum;;P. chrysogenum;;;;5076
+Fungi;Trichocomaceae;Penicillium;digitatum;;P. digitatum;;Penseelschimmel;;36651
+Fungi;Trichocomaceae;Penicillium;notatum;;P. notatum;;;;147272
+Fungi;Trichocomaceae;Petromyces;sp.;;P. sp.;;;;5052
+Fungi;Trichocomaceae;Talaromyces;sp.;;T. sp.;;;;5094
+Fungi;Trichocomaceae;Trichocoma;sp.;;T. sp.;;;;76770
+Fungi;Ustilaginaceae;Ustilago;avenae;;U. avenae;loose smut;;;120650
+Fungi;Ustilaginaceae;Ustilago;cynodontis;;U. cynodontis;flower smut;;;63396
+Fungi;Ustilaginaceae;Ustilago;maydis;;U. maydis;corn smut;;;5270
+Fungi;Ustilaginaceae;Ustilago;tritici;;U. tritici;loose smut of wheat;Stuifbrand;;117174
+Fungi;Wallemiaceae;Wallemia;sebi;;W. sebi;;;;148960
+Plantae;Aceraceae;Acer;sp.;;A. sp.;Maple;Esdoorn;;4022
+Plantae;Amaranthaceae;Amaranthus;sp.;;A. sp.;Pigweed;Amarant;;3564
+Plantae;Amaranthaceae;Atriplex;sp.;;A. sp.;Scale;Melde;;3550
+Plantae;Amaranthaceae;Chenopodium;sp.;;C. sp.;Lamb’s quarter;Ganzenvoet;;3558
+Plantae;Amaranthaceae;Kochia;sp.;;K. sp.;Burning bush;Studentenkruid;;267503
+Plantae;Amaranthaceae;Salsola;sp.;;S. sp.;Russian thistle;Loogkruid;;151233
+Plantae;Asteraceae;Ambrosia;artemisiifolia;;A. artemisiifolia;common ragweed, annual ragweed, and low ragweed,;Alsemambrosia;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115751450/;4212
+Plantae;Asteraceae;Ambrosia;sp.;;A. sp.;Ragweed;Ambrosia;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/, https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/pollentelling/;26641
+Plantae;Asteraceae;Artemisia;vulgaris;;A. vulgaris;"mugwort;common wormwood";Bijvoet;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115722450/;4220
+Plantae;Asteraceae;Artemisia;sp.;;A. sp.;Sage, mugwort;Alsem;;4219
+Plantae;Asteraceae;Baccharis;sp.;;B. sp.;Groundsel-tree;Struikaster;;41487
+Plantae;Asteraceae;Iva;sp.;;I. sp.;Marsh elder;;;114188
+Plantae;Asteraceae;Xanthium;sp.;;X. sp.;Cocklebur;Stekelnoot;;36590
+Plantae;Betulaceae;Alnus;glutinosa;;A. glutinosa;"common alder;black alder;european alder;alder";Zwarte els;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/90924115644450/;3517
+Plantae;Betulaceae;Betula;pendula;;B. pendula;"Silver Birch;European Weeping Birch";Ruwe berk;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/;3505
+Plantae;Betulaceae;Betula;pubescens;;B. pubescens;"Downy Birch; White Birch; Hairy Birch";Zachte berk;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/;38787
+Plantae;Betulaceae;Corylus;avellana;;C. avellana;common hazel;Hazelaar;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115811450/;13451
+Plantae;Betulaceae;Corylus;sp.;;C. sp.;Hazelnut;Hazelaar;;13450
+Plantae;Cupressaceae;Cupressus;sp.;;C. sp.;Cypress;Cypres;;13468
+Plantae;Cupressaceae;Juniperus;sp.;;J. sp.;Junipers and cedars;Jeneverbes en ceder;;13100
+Plantae;Cupressaceae;Taxodium;sp.;;T. sp.;Bald-cypress;Moerascypres;;13282
+Plantae;Fabaceae;Acacia;sp.;;A. sp.;Acacia;Acacia;;3808
+Plantae;Fabaceae;Prosopis;sp.;;P. sp.;Mesquite;Mesquiteboom;;6330
+Plantae;Fagaceae;Fagus;sp.;;F. sp.;Beech;Beuk;;21024
+Plantae;Fagaceae;Quercus;sp.;;Q. sp.;Oak;Eik;;3511
+Plantae;Hamamelidaceae;Liquidambar;sp.;;L. sp.;Sweet gum;Amberboom;;4398
+Plantae;Juglandaceae;Carya;sp.;;C. sp.;Hickory and Pecan;Hickory en pecannoot;;13402
+Plantae;Juglandaceae;Juglans;sp.;;J. sp.;Walnut;Walnoot;;16718
+Plantae;Moraceae;Morus;sp.;;M. sp.;Mulberry;Moerbei;;577
+Plantae;Myricaceae;Myrica;sp.;;M. sp.;Bayberry;Gagel;;3509
+Plantae;Oleaceae;Fraxinus;sp.;;F. sp.;Ash;Es;;38871
+Plantae;Oleaceae;Ligustrum;sp.;;L. sp.;Privet;Liguster;;13596
+Plantae;Oleaceae;Olea;sp.;;O. sp.;Olive;Olijf;;22362
+Plantae;Pinaceae;Cedrus;sp.;;C. sp.;Cedar;Ceder;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;26641
+Plantae;Plantaginaceae;Plantago;sp.;;P. sp.;English plantain;Weegbree;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115947450/;
+Plantae;Platanaceae;Platanus;sp.;;P. sp.;Sycamore;Plataan;;4402
+Plantae;Poaceae;Agrostis;gigantea;;A. gigantea;Redtop, bent grass;Hoog struisgras;;345916
+Plantae;Poaceae;Alopecurus;pratensis;;A. pratensis;Meadow foxtail;Grote vossenstaart;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;15304
+Plantae;Poaceae;Alopecurus;sp.;;A. sp.;foxtail grass;Vossenstaart;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;15303
+Plantae;Poaceae;Anthoxanthum;odoratum;;A. odoratum;Sweet vernal;Gewoon reukgras;;29661
+Plantae;Poaceae;Arrhenatherum;elatius;;A. elatius;false oat-grass, tall oat-grass, tall meadow oat, onion couch and tuber oat-grass;Gewone glanshaver;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;52139
+Plantae;Poaceae;Bromus;hordeaceus;;B. hordeaceus;Soft-brome;Zachte dravik;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;52147
+Plantae;Poaceae;Cynodon;dactylon;;C. dactylon;Bermuda grass;Handjesgras, Bermudagras;;28909
+Plantae;Poaceae;Cynosurus;cristatus;;C. cristatus;Crested dogstail grass;Kamgras;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;211939
+Plantae;Poaceae;Dactylis;glomerata;;D. glomerata;"Cock's-foot;orchard grass;cat grass";Kropaar;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;4509
+Plantae;Poaceae;Elytrigia;repens;;E. repens;couch grass;Kweek;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;52152
+Plantae;Poaceae;Festuca;pratensis;;F. pratensis;Meadow fescue;Beemdlangbloem;;4608
+Plantae;Poaceae;Fetusca;sp.;;F. sp.;;Zwenkgras;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;4605
+Plantae;Poaceae;Holcus;lanatus;;H. lanatus;"Yorkshire fog;tufted grass;meadow soft grass; velvet grass;common velvet grass";Gestreepte witbol;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;29679
+Plantae;Poaceae;Holcus;mollis;;H. mollis;"creeping soft grass;creeping velvet grass";Gladde witbol;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;376124
+Plantae;Poaceae;Holcus;sp.;;H. sp.;;Witbol;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;15560
+Plantae;Poaceae;Lolium;multiflorum;;L. multiflorum;"Italian rye-grass;anual ryegrass";Italiaans raaigras;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;4521
+Plantae;Poaceae;Lolium;perenne;;L. perenne;"perennial rye-grass;English ryegrass;winter ryegrass";Engels raaigras;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;4522
+Plantae;Poaceae;Lolium;sp.;;L. sp.;;Raaigras;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;4520
+Plantae;Poaceae;Paspalum;notatum;;P. notatum;Bahia grass;Bahia-gras;;147272
+Plantae;Poaceae;Phleum;pratense;;P. pratense;Timothy grass;Timoteegras;;15957
+Plantae;Poaceae;Phleum;pratense;pratense;P. pratense subsp. pratense;Timothy-grass;Timoteegras;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;15957
+Plantae;Poaceae;Phleum;sp.;;P. sp.;Timothy-grass;Doddegras;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;15304
+Plantae;Poaceae;Poa;annua;;P. annua;"annual meadow grass;annual bluegrass;poa";Straatgras;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;93036
+Plantae;Poaceae;Poa;pratensis;;P. pratensis;"Kentucky bluegrass;smooth meadow-grass;common meadow-grass";Veldbeemdgras;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;4545
+Plantae;Poaceae;Secale;cereale;;S. cereale;Rye;Rogge;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;4550
+Plantae;Poaceae;Sorghum;halepense;;S. halepense;Johnson grass;Wilde sorgo;;4560
+Plantae;Poaceae;Zea;mays;mays;Z. mays subsp. mays;Maize;Maïs;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;381124
+Plantae;Polygonaceae;Rumex;sp.;;R. sp.;Dock, sorrel;Veldzuring;https://www.lumc.nl/org/longziekten/patientenzorg/pollen-en-hooikoorts/105828/130606115902450/;3618
+Plantae;Salicaceae;Populus;sp.;;P. sp.;Cottonwood;Populier;;3689
+Plantae;Salicaceae;Salix;sp.;;S. sp.;Willow;Wilg;;40685
+Plantae;Ulmaceae;Ulmus;sp.;;U. sp.;Elm;Iep;;24735
+Plantae;Urticaceae;Parietaria;judaica;;P. judaica;"spreading pellitory;pellitory of the wall";Klein glaskruid;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;33127
+Plantae;Urticaceae;Parietaria;officinalis;;P. officinalis;"eastern pellitory-of-the-wall;upright pellitory;lichwort,";Groot glaskruid;http://www.vcbio.science.ru.nl/virtuallessons/pollenplants/;13187
+Plantae;Urticaceae;Urtica;sp.;;U. sp.;Nettle;Brandnetel;;3500

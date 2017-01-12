@@ -1,0 +1,126 @@
+<!--
+#if $local_dutch_species.dutch_species_list == "none"
+
+#else
+    $NL_species
+#end if 
+-->
+
+
+<tool id="NLSoortenTest4" name="nl soorten test 4" version="0.1.4">
+    <description>Nederlandse allergene soorten bepalen</description>
+    <command interpreter="bash">
+        NLSoortenTest4.sh $local_dutch_species.dutch_species_db
+        
+        #if $presence_status.option == "all"
+            "X,0,0a,1,1a,1b,2,2a,2b,2c,2d,3a,3b,3c,3d,4"
+        #else if $presence_status.option == "established"
+            "1a,2a,2b"
+        #else if $presence_status.option == "exotic"
+            "2,2a,2b,2c,2d"
+        #else if $presence_status.option == "custom"
+            $presence_status.custom_prescence
+        #end if
+        
+        $allergenic_species $allergenic_species_exceptions $output</command>
+  
+    <inputs>
+               
+    <!-- dutch species list -->
+    <conditional name="local_dutch_species">
+        <param name="dutch_species_list" type="select" label="Dutch species export csv file">
+            <option value="none" selected="true">No local Dutch plants, anlimals, fungi database, will use server copy</option>
+            <option value="local">Local copy (from history)</option>
+        </param>
+        <when value="local">
+            <param format="csv" name="dutch_species_db" type="data" label="Nederlandsesoorten.nl export CSV file" help="nederlandsesoorten.nl export CSV file"/>
+            <conditional name="update">
+                <param name="dutch_species_update" type="select" label="Update Nederlandsesoorten.nl CSV file">
+                    <option value="check" selected="true">Update if outdated</option>
+                    <option value="force">Force update</option>
+                    <option value="avoid">Avoid update</option>
+                </param>
+            </conditional>
+        </when>
+    </conditional>
+    
+    <!-- presence status for dutch species -->
+    <conditional name="presence_status">
+        <param name="option" type="select" label="Occurance status">
+            <option value="all" selected="true">All species</option>
+            <option value="established">Established species (code 1a 2a 2b)</option>
+            <option value="exotic">Exotic species (every 2 subcode)</option>
+            <option value="custom">Custom species occurance</option>
+        </param>
+        <when value="custom">
+            <param name="custom_prescence" type="select" label="Custom occurrence status" multiple="true" display="checkboxes" >
+                <!-- De "X" van "No occurence" worden vervangen door een $ -->
+                <option value="X">No occurrence</option>
+                <option value="0">0: Must be checked</option>
+                <option value="0a">0a: Correct, can be improved</option>
+                <option value="1">1: Indigenous (indefinite)</option>
+                <option value="1a">1a: Indigenous</option>
+                <option value="1b">1b: Occasionally/periodic</option>
+                <option value="2">2: Exotic (indefinite)</option>
+                <option value="2a">2a: Exotic (minimum 100 years reproduction)</option>
+                <option value="2b">2b: Exotic (between 10 and 100 years reproduction)</option>
+                <option value="2c">2c: Exotic (less than 10 years reproduction)</option>
+                <option value="2d">2d: Exotic (incidental import)</option>
+                <option value="3a">3a: Insufficient data</option>
+                <option value="3b">3b: Wrongly reported</option>
+                <option value="3c">3c: Expected</option>
+                <option value="3d">3d: Auct</option>
+                <option value="4">4: Other</option>
+            </param>
+        </when>
+    </conditional>
+		
+    <!-- hay fever exceptions -->
+    <conditional name="force_include_source">
+        <param name="force_include_exceptions" type="select" label="Force hay fever cousing species into list">
+            <option value="none" selected="true">No local hayfever exceptions, will use server copy</option>
+            <option value="local">Local copy (from history)</option>
+        </param>
+        <when value="local">
+            <param format="csv" name="allergenic_species" type="data" label="Allergenic species csv file"/>
+            <param format="csv" name="allergenic_species_exceptions" type="data" label="Allergenic species exceptions csv file"/>
+            <conditional name="update">
+                <param name="dutch_hayfever_update" type="select" label="Update Dutch hay fever database exceptions">
+                    <option value="check" selected="true">Update if outdated</option>
+                    <option value="force">Force update</option>
+                    <option value="avoid">Avoid update</option>
+                </param>
+            </conditional>
+        </when>
+    </conditional>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+  </inputs>
+  
+  <outputs>
+    <data format="txt" name="output" />
+  </outputs>
+
+  <help>
+    Dutch species export file: export csv file from Nederlandsesoorten.nl with dutch species.
+    Allergenic species file: csv file (THIS SCV MUST HAVE SEMICOLONS AS SEPERATOR INSTEAD OF COMMAS!). Must have header: "Rijk;Familie;Genus;Soort;Ondersoort;Latijnse naam;Engelse populaire naam;Nederlandse populaire naam;Bron;TaxID".
+  </help>
+
+</tool>

@@ -1,0 +1,42 @@
+<tool id="NLSoortenTest2" name="nl soorten test 2" version="0.1.2">
+  <description>Makes a test set</description>
+  <command interpreter="bash">NLSoortenTest2.sh $NL_species $custom_prescence $allergenic_species $allergenic_species_exceptions $output</command>
+  
+  <inputs>
+    <!-- Get file with Dutch species -->
+    <param format="csv" name="NL_species" type="data" label="Dutch species export csv file"/>
+    <param format="csv" name="allergenic_species" type="data" label="Allergenic species csv file"/>
+    <param format="csv" name="allergenic_species_exceptions" type="data" label="Allergenic species exceptions csv file"/>
+
+    <param name="custom_prescence" type="select" label="Custom occurrence status" multiple="true" display="checkboxes" >
+        <!-- De "X" van "No occurence" worden vervangen door een $ -->
+        <option value="X">No occurrence</option>
+        <option value="0">0: Must be checked</option>
+        <option value="0a">0a: Correct, can be improved</option>
+        <option value="1">1: Indigenous (indefinite)</option>
+        <option value="1a">1a: Indigenous</option>
+        <option value="1b">1b: Occasionally/periodic</option>
+        <option value="2">2: Exotic (indefinite)</option>
+        <option value="2a">2a: Exotic (minimum 100 years reproduction)</option>
+        <option value="2b">2b: Exotic (between 10 and 100 years reproduction)</option>
+        <option value="2c">2c: Exotic (less than 10 years reproduction)</option>
+        <option value="2d">2d: Exotic (incidental import)</option>
+        <option value="3a">3a: Insufficient data</option>
+        <option value="3b">3b: Wrongly reported</option>
+        <option value="3c">3c: Expected</option>
+        <option value="3d">3d: Auct</option>
+        <option value="4">4: Other</option>
+    </param>
+
+  </inputs>
+  
+  <outputs>
+    <data format="txt" name="output" />
+  </outputs>
+
+  <help>
+    Dutch species export file: export csv file from Nederlandsesoorten.nl with dutch species.
+    Allergenic species file: csv file (THIS SCV MUST HAVE SEMICOLONS AS SEPERATOR INSTEAD OF COMMAS!). Must have header: "Rijk;Familie;Genus;Soort;Ondersoort;Latijnse naam;Engelse populaire naam;Nederlandse populaire naam;Bron;TaxID".
+  </help>
+
+</tool>

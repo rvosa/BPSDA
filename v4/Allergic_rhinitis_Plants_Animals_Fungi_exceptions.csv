@@ -1,0 +1,10 @@
+Rijk;Familie;Genus;Soort;Ondersoort;Latijnse naam;Engelse populaire naam;Nederlandse populaire naam;Bron;TaxID
+Animalia;Bovidae;Bos;domesticus;;B. domesticus;Cow;Koe;;25401
+Animalia;Canidae;Canis;familiaris;;C. familiaris;Dog;Hond;;9615
+Animalia;Caviidae;Cavia;porcellus;;C. porcellus;Guinea pig;Cavia;;10141
+Animalia;Equidae;Equus;caballus;;E. caballus;Horse;Paard;;9796
+Animalia;Muridae;Gerbillus;campestris;;G. campestris;Gerbil;Woestijnrat;;41199
+Fungi;Pleosporaceae;Stemphylium;solani;;S. solani;;;;5297
+Fungi;Saccharomycetaceae;Candida;albicans;;C. albicans;;;;4932
+Fungi;Trichocomaceae;Emericella;sp.;;E. sp.;;;;5071
+Plantae;Poaceae;Fetusca;sp.;;F. sp.;;Zwenkgras;http://www.elkerliek.nl/Quartz/Patientenfolders/Hooikoorts-bij-kinderen-(Allergische-rhinitis).pdf;4605
