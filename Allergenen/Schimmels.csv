@@ -7,7 +7,7 @@ Fungi,Chaetomiaceae,Chaetomium,C. globosum,NVT,NVT,,38033
 Fungi,Diademaceae,Diademaceae,D. sp.,NVT,NVT,,221669
 Fungi,Didymellaceae,Phoma,P. betae,sugarbeet root aphid,Wortelbrand,,137527
 Fungi,Dothideales,Aureobasidium,A. pullulans,NVT,NVT,,5580
-Fungi,Ganodermataceae,Ganoderma ,G. sp.,"Shelf mushroom, bracket fungi",Lakzwam,,5314
+Fungi,Ganodermataceae,Ganoderma ,G. sp.,"Shelf mushroom; bracket fungi",Lakzwam,,5314
 Fungi,Geastraceae,Geastrum,G. sp.,Earth star,NVT,,68764
 Fungi,Hymenogastraceae,Psilocybe ,P. cubensis,NVT,NVT,,181762
 Fungi,Leptosphaeriaceae,Leptosphaeria,L. sp.,NVT,NVT,,5021
@@ -34,10 +34,10 @@ Fungi,Pleosporaceae,Stemphylium,S. solani,NVT,NVT,,5297
 Fungi,Pleosporaceae,Ulocladium,U. sp.,NVT,NVT,,119947
 Fungi,Pleurotaceae,Pleurotus,P. ostreatus ,Oyster mushroom,Oesterzwam,,5322
 Fungi,Polyporaceae,Lentinus,L. sp.,NVT,NVT,,5357
-Fungi,Pucciniaceae,Puccinia,P. graminis,"stem rust, black rust, cereal rust",Zwarte roest,,5476
+Fungi,Pucciniaceae,Puccinia,P. graminis,"stem rust; black rust; cereal rust",Zwarte roest,,5476
 Fungi,Pythiaceae,Phytophthora,P. sp.,NVT,NVT,,4783
 Fungi,Saccharomycetaceae,Candida,C. albicans,NVT,NVT,,4932
-Fungi,Saccharomycetaceae,Saccharomyces,S. cerevisiae,Budding yeast,Bakkersgist, wijngist, biergist,,,40559
+Fungi,Saccharomycetaceae,Saccharomyces,S. cerevisiae,Budding yeast,Bakkersgist; wijngist; biergist,,,40559
 Fungi,Sclerotiniaceae,Botryotinia,B. sp.,NVT,NVT,,40558
 Fungi,Sclerotiniaceae,Botrytis,B. cinerea,Grey mold,Grauwe schimmel,,5054
 Fungi,Trichocomaceae,Aspergillus,A. amstelodami,NVT,NVT,,5059
