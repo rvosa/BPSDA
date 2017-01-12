@@ -1,0 +1,62 @@
+Rijk,Familie,Genus,Latijnse naam,Engelse populaire naam,Nederlandse poulaire naam,Bron,TaxID
+Fungi,Agaricaceae,Calvatia ,C. sp.,NVT,NVT,,68761
+Fungi,Agaricaceae,Coprinus,C. sp.,Inky cap,Inktzwam,,5345
+Fungi,Arthrodermataceae,Trichophyton,T. mentagrophytes,NVT,NVT,,523103
+Fungi,Bionectriaceae,Nectriopsis,N. sp.,NVT,NVT,,29865
+Fungi,Chaetomiaceae,Chaetomium,C. globosum,NVT,NVT,,38033
+Fungi,Diademaceae,Diademaceae,D. sp.,NVT,NVT,,221669
+Fungi,Didymellaceae,Phoma,P. betae,sugarbeet root aphid,Wortelbrand,,137527
+Fungi,Dothideales,Aureobasidium,A. pullulans,NVT,NVT,,5580
+Fungi,Ganodermataceae,Ganoderma ,G. sp.,"Shelf mushroom, bracket fungi",Lakzwam,,5314
+Fungi,Geastraceae,Geastrum,G. sp.,Earth star,NVT,,68764
+Fungi,Hymenogastraceae,Psilocybe ,P. cubensis,NVT,NVT,,181762
+Fungi,Leptosphaeriaceae,Leptosphaeria,L. sp.,NVT,NVT,,5021
+Fungi,Malasseziaceae,Malassezia,M. furfur,NVT,NVT,,55194
+Fungi,Meruliaceae,Merulius,M. sp.,NVT,NVT,,160933
+Fungi,Mucoraceae,Mucor,M. sp.,NVT,Kopjesschimmel,,4830
+Fungi,Mucoraceae,Rhizopus,R. stolonifer,Black bread mold,NVT,,4846
+Fungi,Mycosphaerellaceae,Cladosporium,C. herbarum,NVT,NVT,,29918
+Fungi,Mycosphaerellaceae,Cladosporium ,C. sphaerospermum,NVT,NVT,,92950
+Fungi,Nectriaceae,Calonectria,C. sp.,NVT,NVT,,57138
+Fungi,Nectriaceae,Fusarium ,F. moniliforme,NVT,NVT,,5599
+Fungi,Nectriaceae,Gibberella,G. sp.,NVT,NVT,,5506
+Fungi,Nectriaceae,Nectria,N. sp.,NVT,NVT,,5133
+Fungi,Peronosporaceae,Plasmopara,P. sp.,NVT,NVT,,4780
+Fungi,Pleosporaceae,Alternaria,A. alternata,NVT,NVT,,45130
+Fungi,Pleosporaceae,Bipolaris,B. sorokiniana,NVT,NVT,,145392
+Fungi,Pleosporaceae,Curvularia,C. sp.,NVT,NVT,,5502
+Fungi,Pleosporaceae,Drechslera ,D. spicifera,NVT,NVT,,105696
+Fungi,Pleosporaceae,Epicoccum,E. nigrum,NVT,NVT,,110364
+Fungi,Pleosporaceae,Helminthosporium ,H. sp.,NVT,NVT,,58127
+Fungi,Pleosporaceae,Pseudocochliobolus,P. sp.,NVT,NVT,,5502
+Fungi,Pleosporaceae,Pyrenophora,P. sp.,NVT,NVT,,5027
+Fungi,Pleosporaceae,Stemphylium,S. solani,NVT,NVT,,5297
+Fungi,Pleosporaceae,Ulocladium,U. sp.,NVT,NVT,,119947
+Fungi,Pleurotaceae,Pleurotus,P. ostreatus ,Oyster mushroom,Oesterzwam,,5322
+Fungi,Polyporaceae,Lentinus,L. sp.,NVT,NVT,,5357
+Fungi,Pucciniaceae,Puccinia,P. graminis,"stem rust, black rust, cereal rust",Zwarte roest,,5476
+Fungi,Pythiaceae,Phytophthora,P. sp.,NVT,NVT,,4783
+Fungi,Saccharomycetaceae,Candida,C. albicans,NVT,NVT,,4932
+Fungi,Saccharomycetaceae,Saccharomyces,S. cerevisiae,Budding yeast,Bakkersgist, wijngist, biergist,,,40559
+Fungi,Sclerotiniaceae,Botryotinia,B. sp.,NVT,NVT,,40558
+Fungi,Sclerotiniaceae,Botrytis,B. cinerea,Grey mold,Grauwe schimmel,,5054
+Fungi,Trichocomaceae,Aspergillus,A. amstelodami,NVT,NVT,,5059
+Fungi,Trichocomaceae,Aspergillus,A. flavus,NVT,NVT,,746128
+Fungi,Trichocomaceae,Aspergillus,A. fumigatus,NVT,NVT,,5061
+Fungi,Trichocomaceae,Aspergillus,A. niger,NVT,NVT,,34861
+Fungi,Trichocomaceae,Edyuillia,E. sp.,NVT,NVT,,94203
+Fungi,Trichocomaceae,Emericella,E. sp.,NVT,NVT,,5071
+Fungi,Trichocomaceae,Eupenicillium,E. sp.,NVT,NVT,,5073
+Fungi,Trichocomaceae,Eurotium,E. sp.,NVT,NVT,,28569
+Fungi,Trichocomaceae,Neosartorya,N. sp.,NVT,NVT,,36629
+Fungi,Trichocomaceae,Penicillium,P. chrysogenum,NVT,NVT,,5076
+Fungi,Trichocomaceae,Penicillium,P. digitatum,NVT,Penseelschimmel,,36651
+Fungi,Trichocomaceae,Penicillium,P. notatum,NVT,NVT,,147272
+Fungi,Trichocomaceae,Petromyces,P. sp.,NVT,NVT,,5052
+Fungi,Trichocomaceae,Talaromyces,T. sp.,NVT,NVT,,5094
+Fungi,Trichocomaceae,Trichocoma,T. sp.,NVT,NVT,,76770
+Fungi,Ustilaginaceae,Ustilago,U. avenae,Loose smut,NVT,,120650
+Fungi,Ustilaginaceae,Ustilago,U. cynodontis,Flower smut,NVT,,63396
+Fungi,Ustilaginaceae,Ustilago,U. maydis,Corn smut,NVT,,5270
+Fungi,Ustilaginaceae,Ustilago,U. tritici,Loose smut of wheat,Stuifbrand,,117174
+Fungi,Wallemiaceae,Wallemia,W. sebi,NVT,NVT,,148960
