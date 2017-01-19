@@ -230,6 +230,7 @@
     <tool file="identify/cdhit_expand.xml" />
     <tool file="identify/Compare_BLAST.xml" />
     <tool file="identify/NLSoortenTest6.xml" />
+    <tool file="identify/HTS-barcode-checker-Allergenic.xml" />
   </section>
 
 </toolbox>
