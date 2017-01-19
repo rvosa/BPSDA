@@ -1,0 +1,2 @@
+sudo mount /dev/vdb /media/GalaxyData/
+sudo ln -s /media/GalaxyData /home/galaxy/GenBank
