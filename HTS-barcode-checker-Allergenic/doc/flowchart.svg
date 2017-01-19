@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="210mm" height="297mm" viewBox="0 0 21000 29700" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="21000" height="29700"/>
+  </clipPath>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects">
+    <g class="Date/Time">
+     <g id="id3"/>
+    </g>
+    <g class="Footer">
+     <g id="id4"/>
+    </g>
+    <g visibility="hidden" class="Slide_Number">
+     <g id="id5">
+      <text class="TextShape"><tspan class="TextParagraph" font-family="Times New Roman, serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="16979" y="26682"><tspan class="PlaceholderText" fill="rgb(0,0,0)" stroke="none">&lt;number&gt;</tspan></tspan></tspan></text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id6">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 10500,28709 L 991,28709 991,15977 20009,15977 20009,28709 10500,28709 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="9" d="M 10500,28709 L 991,28709 991,15977 20009,15977 20009,28709 10500,28709 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id7">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 10500,15723 L 991,15723 991,483 20009,483 20009,15723 10500,15723 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" d="M 10500,15723 L 991,15723 991,483 20009,483 20009,15723 10500,15723 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id8">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 8403,20902 L 12722,20902 12722,21670 C 11012,21664 11070,21821 9526,21858 8974,21835 8772,21818 8403,21792 L 8403,20902 Z M 8403,20902 L 8403,20902 Z M 12722,21858 L 12722,21858 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 8403,20902 L 12722,20902 12722,21670 C 11012,21664 11070,21821 9526,21858 8974,21835 8772,21818 8403,21792 L 8403,20902 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8704" y="21455"><tspan fill="rgb(0,0,0)" stroke="none">11. BLAST results</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id9">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 11991,13089 L 16992,13089 16992,14871 C 15013,14857 15080,15221 13292,15306 12653,15255 12419,15214 11991,15155 L 11991,13089 Z M 11991,13089 L 11991,13089 Z M 16993,15307 L 16993,15307 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 11991,13089 L 16992,13089 16992,14871 C 15013,14857 15080,15221 13292,15306 12653,15255 12419,15214 11991,15155 L 11991,13089 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12997" y="13642"><tspan fill="rgb(0,0,0)" stroke="none">8. Local CITES </tspan></tspan><tspan class="TextPosition" x="12337" y="14149"><tspan fill="rgb(0,0,0)" stroke="none">database containing </tspan></tspan><tspan class="TextPosition" x="12405" y="14656"><tspan fill="rgb(0,0,0)" stroke="none">the CITES taxon IDs</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id10">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 1613,23089 L 8866,23089 8866,25378 C 5995,25360 6092,25828 3500,25938 2573,25872 2234,25819 1613,25742 L 1613,23089 Z M 1613,23089 L 1613,23089 Z M 8866,25938 L 8866,25938 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 1613,23089 L 8866,23089 8866,25378 C 5995,25360 6092,25828 3500,25938 2573,25872 2234,25819 1613,25742 L 1613,23089 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="1870" y="23642"><tspan fill="rgb(0,0,0)" stroke="none">13. Filtered set of BLAST results </tspan></tspan><tspan class="TextPosition" x="2274" y="24149"><tspan fill="rgb(0,0,0)" stroke="none">based on e-value, hit length </tspan></tspan><tspan class="TextPosition" x="2236" y="24656"><tspan fill="rgb(0,0,0)" stroke="none">and identity percentage and </tspan></tspan><tspan class="TextPosition" x="2391" y="25163"><tspan fill="rgb(0,0,0)" stroke="none">presence of blacklisted IDs</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id11">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 7633,16671 L 8036,16671 8036,16512 8439,16512 8439,16353 13437,16353 13437,17627 13034,17627 13034,17787 12631,17787 12631,17946 C 10753,17936 10716,18196 8931,18257 8291,18220 8060,18191 7633,18148 L 7633,16671 Z M 7633,16353 L 7633,16353 Z M 13438,18264 L 13438,18264 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 7633,16671 L 8036,16671 8036,16512 8439,16512 8439,16353 13437,16353 13437,17627 13034,17627 13034,17787 12631,17787 12631,17946 C 10753,17936 10716,18196 8931,18257 8291,18220 8060,18191 7633,18148 L 7633,16671 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 8036,16671 L 12631,16671 12631,17787"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 7633,16353 L 7633,16353 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 13438,18264 L 13438,18264 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 8439,16512 L 13034,16512 13034,17627"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 7633,16353 L 7633,16353 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 13438,18264 L 13438,18264 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8541" y="17224"><tspan fill="rgb(0,0,0)" stroke="none">9. Set of FASTA </tspan></tspan><tspan class="TextPosition" x="9002" y="17731"><tspan fill="rgb(0,0,0)" stroke="none">sequences</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id12">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 12453,4376 L 17856,4376 17856,5735 12453,5735 12453,4376 12453,4376 Z M 12453,4376 L 12453,4376 Z M 17856,5736 L 17856,5736 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 12453,4376 L 17856,4376 17856,5735 12453,5735 12453,4376 12453,4376 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12712" y="4929"><tspan fill="rgb(0,0,0)" stroke="none">4. Extract species from </tspan></tspan><tspan class="TextPosition" x="13944" y="5436"><tspan fill="rgb(0,0,0)" stroke="none">appendices</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id13">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 9118,10467 L 15897,10467 15897,11743 9118,11743 9118,10467 9118,10467 Z M 9118,10467 L 9118,10467 Z M 15898,11743 L 15898,11743 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 9118,10467 L 15897,10467 15897,11743 9118,11743 9118,10467 9118,10467 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="9741" y="11020"><tspan fill="rgb(0,0,0)" stroke="none">6. For each species: Try to </tspan></tspan><tspan class="TextPosition" x="9428" y="11527"><tspan fill="rgb(0,0,0)" stroke="none">obtain the NCBI taxonomy ID</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id14">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 2843,10467 L 8103,10467 8103,11743 2843,11743 2843,10467 2843,10467 Z M 2843,10467 L 2843,10467 Z M 8103,11743 L 8103,11743 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 2843,10467 L 8103,10467 8103,11743 2843,11743 2843,10467 2843,10467 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="3157" y="11020"><tspan fill="rgb(0,0,0)" stroke="none">7. Use TNRS to obtain </tspan></tspan><tspan class="TextPosition" x="3542" y="11527"><tspan fill="rgb(0,0,0)" stroke="none">species synonyms</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id15">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 8048,18765 L 13053,18765 13053,20041 8048,20041 8048,18765 8048,18765 Z M 8048,18765 L 8048,18765 Z M 13054,20041 L 13054,20041 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 8048,18765 L 13053,18765 13053,20041 8048,20041 8048,18765 8048,18765 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8934" y="19318"><tspan fill="rgb(0,0,0)" stroke="none">10. (Bulk) NCBI </tspan></tspan><tspan class="TextPosition" x="9876" y="19825"><tspan fill="rgb(0,0,0)" stroke="none">BLAST</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id16">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 12429,26037 L 17718,26037 17718,27819 C 15624,27805 15695,28169 13805,28254 13129,28203 12881,28162 12429,28103 L 12429,26037 Z M 12429,26037 L 12429,26037 Z M 17718,28255 L 17718,28255 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 12429,26037 L 17718,26037 17718,27819 C 15624,27805 15695,28169 13805,28254 13129,28203 12881,28162 12429,28103 L 12429,26037 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12701" y="26590"><tspan fill="rgb(0,0,0)" stroke="none">16. BLAST results with </tspan></tspan><tspan class="TextPosition" x="12745" y="27097"><tspan fill="rgb(0,0,0)" stroke="none">CITES species flagged</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id17">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1555" y="1128"><tspan fill="rgb(0,0,0)" stroke="none">A: Retrieve_CITES.py</tspan></tspan></tspan><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1555" y="1974"><tspan fill="rgb(0,0,0)" stroke="none">Create the local </tspan></tspan><tspan class="TextPosition" x="1555" y="2397"/><tspan class="TextPosition" x="1555" y="2397"><tspan fill="rgb(0,0,0)" stroke="none">CITES database</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id18">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7590" y="12862"><tspan fill="rgb(0,0,0)" stroke="none">If no ID is found</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id19">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1283" y="16460"><tspan fill="rgb(0,0,0)" stroke="none">B: HTS-barcode-checker</tspan></tspan></tspan><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1283" y="17306"><tspan fill="rgb(0,0,0)" stroke="none">Identify sequences and</tspan></tspan><tspan class="TextPosition" x="1283" y="17729"><tspan fill="rgb(0,0,0)" stroke="none">check for presence of </tspan></tspan><tspan class="TextPosition" x="1283" y="18152"><tspan fill="rgb(0,0,0)" stroke="none">CITES protected species</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id20">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 1653,20040 L 7496,20040 7496,21822 C 5183,21808 5261,22172 3173,22257 2426,22206 2153,22165 1653,22106 L 1653,20040 Z M 1653,20040 L 1653,20040 Z M 7496,22258 L 7496,22258 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 1653,20040 L 7496,20040 7496,21822 C 5183,21808 5261,22172 3173,22257 2426,22206 2153,22165 1653,22106 L 1653,20040 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="2183" y="20593"><tspan fill="rgb(0,0,0)" stroke="none">12. Blacklist with NCBI </tspan></tspan><tspan class="TextPosition" x="2388" y="21100"><tspan fill="rgb(0,0,0)" stroke="none">GenBank IDs of miss </tspan></tspan><tspan class="TextPosition" x="2638" y="21607"><tspan fill="rgb(0,0,0)" stroke="none">annotated records</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id21">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 10989,23089 L 19126,23089 19126,24872 10989,24872 10989,23089 10989,23089 Z M 10989,23089 L 10989,23089 Z M 19126,24872 L 19126,24872 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 10989,23089 L 19126,23089 19126,24872 10989,24872 10989,23089 10989,23089 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="11254" y="23642"><tspan fill="rgb(0,0,0)" stroke="none">15. Flag CITES species in the BLAST </tspan></tspan><tspan class="TextPosition" x="11395" y="24149"><tspan fill="rgb(0,0,0)" stroke="none">hits by comparing the taxon IDs to </tspan></tspan><tspan class="TextPosition" x="12428" y="24656"><tspan fill="rgb(0,0,0)" stroke="none">the local CITES database</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id22">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 12647,6816 L 17655,6816 17655,8598 C 15672,8584 15739,8948 13950,9033 13310,8982 13075,8941 12647,8882 L 12647,6816 Z M 12647,6816 L 12647,6816 Z M 17655,9034 L 17655,9034 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 12647,6816 L 17655,6816 17655,8598 C 15672,8584 15739,8948 13950,9033 13310,8982 13075,8941 12647,8882 L 12647,6816 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13496" y="7369"><tspan fill="rgb(0,0,0)" stroke="none">5. List of CITES  </tspan></tspan><tspan class="TextPosition" x="13272" y="7876"><tspan fill="rgb(0,0,0)" stroke="none">protected species </tspan></tspan><tspan class="TextPosition" x="13966" y="8383"><tspan fill="rgb(0,0,0)" stroke="none">and groups</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id23">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5163,1737 L 10566,1737 10566,3520 5163,3520 5163,1737 5163,1737 Z M 5163,1737 L 5163,1737 Z M 10566,3520 L 10566,3520 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 5163,1737 L 10566,1737 10566,3520 5163,3520 5163,1737 5163,1737 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="5796" y="2290"><tspan fill="rgb(0,0,0)" stroke="none">1. Check if the user </tspan></tspan><tspan class="TextPosition" x="5640" y="2797"><tspan fill="rgb(0,0,0)" stroke="none">provide a local CITES </tspan></tspan><tspan class="TextPosition" x="6886" y="3304"><tspan fill="rgb(0,0,0)" stroke="none">database</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id24">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 4563,4471 L 9966,4471 9966,5747 4563,5747 4563,4471 4563,4471 Z M 4563,4471 L 4563,4471 Z M 9966,5747 L 9966,5747 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 4563,4471 L 9966,4471 9966,5747 4563,5747 4563,4471 4563,4471 Z"/>
+       <text class="TextShape"><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="5148" y="5024"><tspan fill="rgb(0,0,0)" stroke="none">3. Check if provided </tspan></tspan><tspan class="TextPosition" x="4824" y="5531"/><tspan class="TextPosition" x="4824" y="5531"><tspan fill="rgb(0,0,0)" stroke="none">database is up to date.</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id25">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 12399,1753 L 17910,1753 17910,3536 12399,3536 12399,1753 12399,1753 Z M 12399,1753 L 12399,1753 Z M 17910,3536 L 17910,3536 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 12399,1753 L 17910,1753 17910,3536 12399,3536 12399,1753 12399,1753 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13177" y="2306"><tspan fill="rgb(0,0,0)" stroke="none">2. Download HTML </tspan></tspan><tspan class="TextPosition" x="13681" y="2813"><tspan fill="rgb(0,0,0)" stroke="none">page of CITES </tspan></tspan><tspan class="TextPosition" x="13944" y="3320"><tspan fill="rgb(0,0,0)" stroke="none">appendices</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id26">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 7264,4076 L 7264,3996 7864,3996 7864,3519"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 7264,4472 L 7402,4058 7126,4058 7264,4472 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id27">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 15154,3981 L 15154,3535"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 15154,4377 L 15292,3963 15016,3963 15154,4377 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id28">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 12057,5056 L 11413,5056 11413,6283 7264,6283 7264,5747"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 12453,5056 L 12039,4918 12039,5194 12453,5056 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id29">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 15151,6421 L 15151,6276 15154,6276 15154,5736"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 15151,6817 L 15289,6403 15013,6403 15151,6817 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id30">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 11596,14198 L 1753,14198 1753,5109 4563,5109"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 11992,14198 L 11578,14060 11578,14336 11992,14198 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id31">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 12508,10072 L 12508,9750 15151,9750 15151,9034"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 12508,10468 L 12646,10054 12370,10054 12508,10468 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id32">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 5473,12139 L 5473,12279 12508,12279 12508,11743"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 5473,11743 L 5335,12157 5611,12157 5473,11743 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id33">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 14492,12694 L 14492,12416 16433,12416 16433,11105 15898,11105"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 14492,13090 L 14630,12676 14354,12676 14492,13090 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id34">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2002" y="5692"><tspan fill="rgb(0,0,0)" stroke="none">If up-to-date</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id35">
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="8614" y="6716"><tspan fill="rgb(0,0,0)" stroke="none">If outdated</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id36">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 10361,5109 L 11151,5109 11151,2644 12399,2644"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 9965,5109 L 10379,5247 10379,4971 9965,5109 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id37">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 8723,11105 L 8103,11105"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 9119,11105 L 8705,10967 8705,11243 9119,11105 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id38">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 10535,18495 L 10535,18112"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 10551,18766 L 10634,18461 10434,18472 10551,18766 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id39">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 5239,22802 L 5239,22474 10562,22474 10562,21802"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 5239,23089 L 5339,22789 5139,22789 5239,23089 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id40">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 5239,22802 L 5239,22673 4574,22673 4574,22127"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 5239,23089 L 5339,22789 5139,22789 5239,23089 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id41">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 10702,23980 L 9928,23980 9928,24513 8865,24513"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 10989,23980 L 10689,23880 10689,24080 10989,23980 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id42">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 14978,22881 L 14492,22881 14492,15307"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 15057,23089 L 15027,22774 14844,22855 15057,23089 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id43">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 15069,25751 L 15057,24871"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 15073,26038 L 15169,25737 14969,25739 15073,26038 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id44">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 10558,20616 L 10551,20041"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 10562,20903 L 10658,20602 10458,20604 10562,20903 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.CustomShape">
+      <g id="id45">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 14929,19094 L 19533,19094 19533,21383 C 17711,21365 17773,21833 16127,21943 15538,21877 15323,21824 14929,21747 L 14929,19094 Z M 14929,19094 L 14929,19094 Z M 19534,21943 L 19534,21943 Z"/>
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="71" d="M 14929,19094 L 19533,19094 19533,21383 C 17711,21365 17773,21833 16127,21943 15538,21877 15323,21824 14929,21747 L 14929,19094 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="15767" y="19647"><tspan fill="rgb(0,0,0)" stroke="none">14. Additional </tspan></tspan><tspan class="TextPosition" x="15468" y="20154"><tspan fill="rgb(0,0,0)" stroke="none">CITES databases </tspan></tspan><tspan class="TextPosition" x="15201" y="20661"><tspan fill="rgb(0,0,0)" stroke="none">(Reconciled Names </tspan></tspan><tspan class="TextPosition" x="16141" y="21168"><tspan fill="rgb(0,0,0)" stroke="none">Database)</tspan></tspan></tspan></text>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id46">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 15057,23089 L 15057,22516 17231,22516 17231,21774"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.ConnectorShape">
+      <g id="id47">
+       <path fill="none" stroke="rgb(0,0,0)" stroke-width="51" d="M 12003,2644 L 11483,2644 11483,2628 10565,2628"/>
+       <path fill="rgb(0,0,0)" stroke="none" d="M 12399,2644 L 11985,2506 11985,2782 12399,2644 Z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
