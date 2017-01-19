@@ -16,13 +16,13 @@ then
 	set -- "${@:1:9}" "${11}" "${@:13}"
 else
 	# if no database is provided, get the default CITES_db from the identify tool folder
-	CITES_db="/home/galaxy/ExtraRef/CITES_db.csv"
-	# run the Retrieve CITES script to update the default file if needed
-	/home/galaxy/Tools/HTS-barcode-checker-Allergenic/src/Retrieve_Allergenic.py -db "${CITES_db}" > /dev/null 2>&1
-	# copy the default CITES db so it can be included in the galaxy history
-	cp "${CITES_db}" "primary_${11}_CITES-db_visible_csv"
-	# set the script arguments with the new CITES path
-	set -- "${@:1:9}" "primary_${11}_CITES-db_visible_csv" "${@:12}"
+	Allergen_db="/home/galaxy/Tools/HTS-barcode-checker-Allergenic/resources/Allergens_db.csv"
+	# run the Retrieve Allergenic script to update the default file if needed
+	/home/galaxy/Tools/HTS-barcode-checker-Allergenic/src/Retrieve_Allergenic.py -db "${Allergen_db}" > /dev/null 2>&1
+	# copy the default allergen db so it can be included in the galaxy history
+	cp "${Allergen_db}" "primary_${11}_allergen-db_visible_csv"
+	# set the script arguments with the new Allergen path
+	set -- "${@:1:9}" "primary_${11}_allergen-db_visible_csv" "${@:12}"
 fi
 
 # for local blasting, check if the hs is =< 20
