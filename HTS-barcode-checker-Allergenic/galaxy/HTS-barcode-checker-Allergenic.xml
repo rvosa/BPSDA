@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<tool id="HTS-barcode-checker-Allergenic" name="HTS barcode-checker-Allergenic" version="0.7" force_history_refresh="True">
+<tool id="HTS-barcode-checker-Allergenic" name="HTS barcode-checker-Allergenic" version="0.8" force_history_refresh="True">
 	<description>Scan a fasta file for Allergen species.</description>
 
 	<!-- collect the parameters and provide these to the wrapper script -->
@@ -24,10 +24,10 @@
 		$min_iden
 		$min_cov
 		$max_e
-		$local_cites.CITES_loc
-		#if $local_cites.CITES_loc == "local"
-			$local_cites.CITES_db
-			$local_cites.update.cites_update
+		$local_allergen.allergen_loc
+		#if $local_allergen.allergen_loc == "local"
+			$local_allergen.allergen_db
+			$local_allergen.update.allergen_update
 		#else
 			#if $input_type.input_format == "hist"
 				$output_tsv.id
@@ -35,8 +35,8 @@
 				$output_zip.id
 			#end if
 		#end if
-		#for $add_cites_db in $add_cites_dbs
-			-cd "${add_cites_db.add_cites_db}"
+		#for $add_allergen_db in $add_allergen_dbs
+			-cd "${add_allergen_db.add_allergen_db}"
 		#end for
 		
 		#for $blacklist in $blacklists
@@ -122,16 +122,16 @@
 			</when>
 		</conditional>
 
-		<!-- input of the CITES database (if available) -->
-		<conditional name="local_cites">
-			<param name="CITES_loc" type="select" label="CITES database">
-				<option value="none" selected="true">No local CITES database, will aquire a new copy</option>
+		<!-- input of the hay fever database (if available) -->
+		<conditional name="local_allergen">
+			<param name="allergen_loc" type="select" label="Allergen database">
+				<option value="none" selected="true">No local allergen database, will aquire a new copy</option>
 				<option value="local">Local copy (from history)</option>
 			</param>
 			<when value="local">
-				<param format="csv" name="CITES_db" type="data" label="CITES database"/>
+				<param format="csv" name="allergen_db" type="data" label="allergenic database"/>
 				<conditional name="update">
-					<param name="cites_update" type="select" label="Update CITES database">
+					<param name="allergen_update" type="select" label="Update allergenic database">
 						<option value="check" selected="true">Update if outdated</option>
 						<option value="force">Force update</option>
 						<option value="avoid">Avoid update</option>
@@ -141,8 +141,8 @@
 		</conditional>
 
 		<!-- additional databases can be added -->
-		<repeat name="add_cites_dbs" title="Additional CITES databases">
-			<param format="csv" name="add_cites_db" type="data" label="CITES set"/>
+		<repeat name="add_allergen_dbs" title="Additional allergenic databases">
+			<param format="csv" name="add_allergen_db" type="data" label="Allergenic set"/>
 		</repeat>
 
 		<!-- BLAST arguments -->
