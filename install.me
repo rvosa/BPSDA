@@ -1,0 +1,11 @@
+Het Nederlandse soorten script is te vinden onder de naam NLSoortenTest6.xml te vinden in het volgende path: /home/galaxy/galaxy/tools/identify/NLSoortenTest6.xml
+
+Als input wordt er een export bestand van nederlandsesoorten.nl gebruikt, ook de gevonden soorten en de exceptions worden mee gegeven in Galaxy.
+De output is een lijst met soorten, indien ze in Nederland voorkomen wordt er ook een exote code toegevoegd.
+
+Nadat er op de server aanpassingen zijn verricht, moet de server worden herstart om het op Galaxy te laten werken.
+Dit wordt gedaan met het volgende commando: sudo reboot
+
+De mount en link code is als volgt:
+sudo mount /dev/vdb /media/GalaxyData/
+sudo ln -s /media/GalaxyData /home/galaxy/GenBank
