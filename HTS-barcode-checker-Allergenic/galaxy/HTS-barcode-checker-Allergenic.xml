@@ -160,10 +160,10 @@
 
 	<outputs>
 		<!-- set the output file formats based on the input type provided by the user -->
-		<data format="tabular" name="output_tsv" label="$input_type.input_seq.display_name CITES">
+		<data format="tabular" name="output_tsv" label="$input_type.input_seq.display_name Allergen">
 			<filter>input_type['input_format'] != "zip"</filter>
 		</data>
-		<data format="zip" name="output_zip" label="$input_type.input_zip.display_name CITES">
+		<data format="zip" name="output_zip" label="$input_type.input_zip.display_name Allergen">
 			<filter>input_type['input_format'] == "zip"</filter>
 		</data>
 
